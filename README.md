@@ -1,6 +1,6 @@
 # php-v01-mail-mysqli
 
-```
+```ini
 #[C:\xampp\sendmail\sendmail.ini]
 smtp_server=
 smtp_port=
